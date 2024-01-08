@@ -1,7 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = "lackful.com"
-theme = "lightbi-hugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 #pygmentsUseClasses = true
@@ -32,8 +31,8 @@ lastmod = false
 rss = false
 pagination = "10"
 hideAuthor = false
-authorInfo = "The content found on this website is brought to you by \"Unemployment\", courtesy of a reclusive hermit's new found free-time."
-description="Expert insight on today's web technology, and it's security."
+authorInfo = "Expert of UNIX based systems and applications, security, and high-availability application delivery."
+description="Server technology blog for whatever you decide to deploy."
 previewCardImagePlacement = "bottom"
 
 
@@ -46,11 +45,11 @@ previewCardImagePlacement = "bottom"
   name = "Joshua Marcum"
   website = "https://nullidle.com/"
   email = "josh@nullidle.com"
-  facebook = ""
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
+#  facebook = ""
+#  instagram = "username"
+#  youtube = "user/username" # or channel/channelname
   twitter = "@polyzombic"
-  threads = "username"
+#  threads = "username"
   linkedin = "https://linkedin.com/in/insecurity"
   github = "https://github.com/xegenix"
   #gitlab = "username"
