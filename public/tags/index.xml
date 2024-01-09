@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on lackful.com</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on lackful.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>josh@nullidle.com (Joshua Marcum)</managingEditor>
+    <webMaster>josh@nullidle.com (Joshua Marcum)</webMaster>
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://example.org/tags/blog/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
+      <guid>https://example.org/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>general</title>
+      <link>https://example.org/tags/general/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
+      <guid>https://example.org/tags/general/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>hugo</title>
+      <link>https://example.org/tags/hugo/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
+      <guid>https://example.org/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>serverless</title>
+      <link>https://example.org/tags/serverless/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
+      <guid>https://example.org/tags/serverless/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>intro</title>
+      <link>https://example.org/tags/intro/</link>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
+      <guid>https://example.org/tags/intro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>newsletter</title>
+      <link>https://example.org/tags/newsletter/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
+      <guid>https://example.org/tags/newsletter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>docker</title>
+      <link>https://example.org/tags/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
+      <guid>https://example.org/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>guides</title>
+      <link>https://example.org/tags/guides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
+      <guid>https://example.org/tags/guides/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>haproxy</title>
+      <link>https://example.org/tags/haproxy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
+      <guid>https://example.org/tags/haproxy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>lets-encrypt</title>
+      <link>https://example.org/tags/lets-encrypt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
+      <guid>https://example.org/tags/lets-encrypt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>nginx</title>
+      <link>https://example.org/tags/nginx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
+      <guid>https://example.org/tags/nginx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SSL</title>
+      <link>https://example.org/tags/ssl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
+      <guid>https://example.org/tags/ssl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>traefik</title>
+      <link>https://example.org/tags/traefik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
+      <guid>https://example.org/tags/traefik/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

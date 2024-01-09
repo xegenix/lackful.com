@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>docker on lackful.com</title>
+    <link>https://example.org/tags/docker/</link>
+    <description>Recent content in docker on lackful.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>josh@nullidle.com (Joshua Marcum)</managingEditor>
+    <webMaster>josh@nullidle.com (Joshua Marcum)</webMaster>
+    <atom:link href="https://example.org/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Most efficient way to run multiple websites on Docker with LetsEncrypt SSL</title>
+      <link>https://example.org/post/2023/dec/most-efficient-way-to-run-multiple-websites-on-docker-with-letsencrypt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
+      <guid>https://example.org/post/2023/dec/most-efficient-way-to-run-multiple-websites-on-docker-with-letsencrypt/</guid>
+      <description>Most efficient way to run multiple sites on Docker w/ LetsEncrypt Article Summary Let&amp;rsquo;s face it, there are a million different ways to configure a server to run multiple web applications on Docker. Normally, I enjoy nothing more than seeing an entire stack provisioned by a compose file. Sadly, a single compose file isn&amp;rsquo;t ideal for a development server with multiple domains and frequently changing applications. When you&amp;rsquo;re application is production ready, I recommend switching to a Cloudflare Zero Trust tunnel to eliminate any unnecessary port exposure.</description>
+    </item>
+  </channel>
+</rss>

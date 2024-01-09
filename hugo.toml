@@ -23,7 +23,7 @@ readingTime = false
 wordCount = false
 useHLJS = true
 socialShare = true
-delayDisqus = true
+#delayDisqus = true
 showRelatedPosts = true
 summaryLength  = "9"
 gcse = false
@@ -31,9 +31,9 @@ lastmod = false
 rss = false
 pagination = "10"
 hideAuthor = false
-authorInfo = "Expert of UNIX based systems and applications, security, and high-availability application delivery."
+authorInfo = "Expert of UNIX based systems and applications, security, and high-availability enterprise applications."
 description="Server technology blog for whatever you decide to deploy."
-previewCardImagePlacement = "bottom"
+previewCardImagePlacement = "top"
 
 
 [sitemap]
