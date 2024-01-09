@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on lackful.com</title>
-    <link>https://example.org/tags/blog/</link>
+    <link>https://lackful.com/tags/blog/</link>
     <description>Recent content in blog on lackful.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>josh@nullidle.com (Joshua Marcum)</managingEditor>
     <webMaster>josh@nullidle.com (Joshua Marcum)</webMaster>
     <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lackful.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cloudflare Pages Migration</title>
-      <link>https://example.org/post/2024/jan/we-moved/</link>
+      <link>https://lackful.com/post/2024/jan/we-moved/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
-      <guid>https://example.org/post/2024/jan/we-moved/</guid>
+      <guid>https://lackful.com/post/2024/jan/we-moved/</guid>
       <description>We moved. Oh, you didn&amp;rsquo;t notice? Good! That&amp;rsquo;s how it should work.&#xA;Cloudflare now serves the site content from your closest available source.&#xA;What this means? Faster load times, creating a better user experience.&#xA;There are some other improvements as well. The site is statically generated, this means improved SEO, less vulnerable to compromise, no infrastructure costs.</description>
     </item>
     <item>
       <title>Welcome Introduction</title>
-      <link>https://example.org/post/2023/nov/intro/</link>
+      <link>https://lackful.com/post/2023/nov/intro/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
-      <guid>https://example.org/post/2023/nov/intro/</guid>
+      <guid>https://lackful.com/post/2023/nov/intro/</guid>
       <description>Introduction We&amp;rsquo;re open to the public so I guess I might as well introduce myself. Joshua Marcum here, and until very recently I was a Security Engineer for a global network communications provider&amp;rsquo;s cybersecurity incident response team. I&amp;rsquo;ve always held an interest in trying to understand server technology, this obsession started at age ten when I created my first website. This decision started a chain reaction. I decided free hosting was not good enough, I needed a domain, and then now some place to host my site.</description>
     </item>
     <item>
       <title>Most efficient way to run multiple websites on Docker with LetsEncrypt SSL</title>
-      <link>https://example.org/post/2023/dec/most-efficient-way-to-run-multiple-websites-on-docker-with-letsencrypt/</link>
+      <link>https://lackful.com/post/2023/dec/most-efficient-way-to-run-multiple-websites-on-docker-with-letsencrypt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
-      <guid>https://example.org/post/2023/dec/most-efficient-way-to-run-multiple-websites-on-docker-with-letsencrypt/</guid>
+      <guid>https://lackful.com/post/2023/dec/most-efficient-way-to-run-multiple-websites-on-docker-with-letsencrypt/</guid>
       <description>Most efficient way to run multiple sites on Docker w/ LetsEncrypt Article Summary Let&amp;rsquo;s face it, there are a million different ways to configure a server to run multiple web applications on Docker. Normally, I enjoy nothing more than seeing an entire stack provisioned by a compose file. Sadly, a single compose file isn&amp;rsquo;t ideal for a development server with multiple domains and frequently changing applications. When you&amp;rsquo;re application is production ready, I recommend switching to a Cloudflare Zero Trust tunnel to eliminate any unnecessary port exposure.</description>
     </item>
   </channel>

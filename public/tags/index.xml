@@ -2,103 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on lackful.com</title>
-    <link>https://example.org/tags/</link>
+    <link>https://lackful.com/tags/</link>
     <description>Recent content in Tags on lackful.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>josh@nullidle.com (Joshua Marcum)</managingEditor>
     <webMaster>josh@nullidle.com (Joshua Marcum)</webMaster>
     <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lackful.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>https://example.org/tags/blog/</link>
+      <link>https://lackful.com/tags/blog/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
-      <guid>https://example.org/tags/blog/</guid>
+      <guid>https://lackful.com/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>general</title>
-      <link>https://example.org/tags/general/</link>
+      <link>https://lackful.com/tags/general/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
-      <guid>https://example.org/tags/general/</guid>
+      <guid>https://lackful.com/tags/general/</guid>
       <description></description>
     </item>
     <item>
       <title>hugo</title>
-      <link>https://example.org/tags/hugo/</link>
+      <link>https://lackful.com/tags/hugo/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
-      <guid>https://example.org/tags/hugo/</guid>
+      <guid>https://lackful.com/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>serverless</title>
-      <link>https://example.org/tags/serverless/</link>
+      <link>https://lackful.com/tags/serverless/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
-      <guid>https://example.org/tags/serverless/</guid>
+      <guid>https://lackful.com/tags/serverless/</guid>
       <description></description>
     </item>
     <item>
       <title>intro</title>
-      <link>https://example.org/tags/intro/</link>
+      <link>https://lackful.com/tags/intro/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
-      <guid>https://example.org/tags/intro/</guid>
+      <guid>https://lackful.com/tags/intro/</guid>
       <description></description>
     </item>
     <item>
       <title>newsletter</title>
-      <link>https://example.org/tags/newsletter/</link>
+      <link>https://lackful.com/tags/newsletter/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
-      <guid>https://example.org/tags/newsletter/</guid>
+      <guid>https://lackful.com/tags/newsletter/</guid>
       <description></description>
     </item>
     <item>
       <title>docker</title>
-      <link>https://example.org/tags/docker/</link>
+      <link>https://lackful.com/tags/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
-      <guid>https://example.org/tags/docker/</guid>
+      <guid>https://lackful.com/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>guides</title>
-      <link>https://example.org/tags/guides/</link>
+      <link>https://lackful.com/tags/guides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
-      <guid>https://example.org/tags/guides/</guid>
+      <guid>https://lackful.com/tags/guides/</guid>
       <description></description>
     </item>
     <item>
       <title>haproxy</title>
-      <link>https://example.org/tags/haproxy/</link>
+      <link>https://lackful.com/tags/haproxy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
-      <guid>https://example.org/tags/haproxy/</guid>
+      <guid>https://lackful.com/tags/haproxy/</guid>
       <description></description>
     </item>
     <item>
       <title>lets-encrypt</title>
-      <link>https://example.org/tags/lets-encrypt/</link>
+      <link>https://lackful.com/tags/lets-encrypt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
-      <guid>https://example.org/tags/lets-encrypt/</guid>
+      <guid>https://lackful.com/tags/lets-encrypt/</guid>
       <description></description>
     </item>
     <item>
       <title>nginx</title>
-      <link>https://example.org/tags/nginx/</link>
+      <link>https://lackful.com/tags/nginx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
-      <guid>https://example.org/tags/nginx/</guid>
+      <guid>https://lackful.com/tags/nginx/</guid>
       <description></description>
     </item>
     <item>
       <title>SSL</title>
-      <link>https://example.org/tags/ssl/</link>
+      <link>https://lackful.com/tags/ssl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
-      <guid>https://example.org/tags/ssl/</guid>
+      <guid>https://lackful.com/tags/ssl/</guid>
       <description></description>
     </item>
     <item>
       <title>traefik</title>
-      <link>https://example.org/tags/traefik/</link>
+      <link>https://lackful.com/tags/traefik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
-      <guid>https://example.org/tags/traefik/</guid>
+      <guid>https://lackful.com/tags/traefik/</guid>
       <description></description>
     </item>
   </channel>

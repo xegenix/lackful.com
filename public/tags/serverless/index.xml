@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>serverless on lackful.com</title>
-    <link>https://example.org/tags/serverless/</link>
+    <link>https://lackful.com/tags/serverless/</link>
     <description>Recent content in serverless on lackful.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>josh@nullidle.com (Joshua Marcum)</managingEditor>
     <webMaster>josh@nullidle.com (Joshua Marcum)</webMaster>
     <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/serverless/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lackful.com/tags/serverless/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cloudflare Pages Migration</title>
-      <link>https://example.org/post/2024/jan/we-moved/</link>
+      <link>https://lackful.com/post/2024/jan/we-moved/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate><author>josh@nullidle.com (Joshua Marcum)</author>
-      <guid>https://example.org/post/2024/jan/we-moved/</guid>
+      <guid>https://lackful.com/post/2024/jan/we-moved/</guid>
       <description>We moved. Oh, you didn&amp;rsquo;t notice? Good! That&amp;rsquo;s how it should work.&#xA;Cloudflare now serves the site content from your closest available source.&#xA;What this means? Faster load times, creating a better user experience.&#xA;There are some other improvements as well. The site is statically generated, this means improved SEO, less vulnerable to compromise, no infrastructure costs.</description>
     </item>
   </channel>
