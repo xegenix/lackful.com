@@ -1,14 +1,12 @@
 #!/bin/bash
-#
 
-function post_path() {
-  export use_path=$( date +%Y/%b;)
-  printf $use_path;
-}
+export CONTENT_FOLDER=/srv/lackful.com/content
+export DATE_PATH=$(date +%Y/%b;) # example: 2024/jan 
 
 function create_file() {
-post_path;
-  local template_bp="
+
+# Start Template
+local OUTPUT_BOILER="
 ---
 date: '`date +%Y-%m-%d`'
 tags: ["hugo", "blog","general"]
@@ -19,11 +17,11 @@ image: '/img/posts/$2'
 ---
 
 # $1
-"
+" # End Template 
 
-local fp_output="./post/$use_path/$1.md"
-touch $fp_output
+local OUTPUT_FPATH="${CONTENT_FOLDER}/post/$DATE_PATH/$1.md"
+touch $OUTPUT_FPATH
 
-printf $template_bp > $fp_output
+printf $OUTPUT_BOILER > $OUTPUT_FPATH
 
 }
