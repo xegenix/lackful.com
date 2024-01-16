@@ -1,5 +1,5 @@
 ---
-title: What We Should Consider as AI Development Progresses.
+title: What to considerations to make regarding Artificial Intelligence.
 date: 2024-01-07
 tags: ['hugo', 'blog', 'general', 'serverless']
 image: '/img/posts/questions-ai-future.png'
@@ -7,7 +7,6 @@ Description: 'My thoughts on the things we need to consider as artificial intell
 featured: true
 ---
 
-# What we should consider as AI development progresses.
 
 We are developing artificial intelligence at an alarming rate, we need to establish some time of guidance for responsible AI development.
 
