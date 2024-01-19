@@ -1,6 +1,6 @@
 baseURL = 'https://lackful.pages.dev/'
 languageCode = 'en-us'
-title = "NULLidle Web & Server Technology Blog"
+title = "NULLidle.com"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 #pygmentsUseClasses = true
@@ -31,8 +31,8 @@ lastmod = false
 rss = false
 pagination = "10"
 hideAuthor = false
-authorInfo = "Expert of UNIX and Linux based environments, security, and high-availability enterprise application."
-description="Find essential information for whatever you might want to deploy."
+authorInfo = "Expert of Linux/UNIX-based applications and infrastructure, since childhood he's been obsessed with anything computer related. Other interests include artificial intelligence, automation, containerization, scripting, web development, and virtualization technologies. Currently unemployed due to a lay-off this past November, he's looking for a good company to call home (he's been harassing Cloudflare with applications *hint hint*). He is also the owner of the NULLidle." 
+description="We provide the insight you need to navigate the vast world of web and server technology."
 previewCardImagePlacement = "top"
 
 
