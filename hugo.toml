@@ -48,10 +48,10 @@ previewCardImagePlacement = "top"
 #  facebook = ""
 #  instagram = "username"
 #  youtube = "user/username" # or channel/channelname
-  twitter = "@polyzombic"
+#  twitter = "@polyzombic"
 #  threads = "username"
-  linkedin = "https://linkedin.com/in/insecurity"
-  github = "https://github.com/xegenix"
+  linkedin = "insecurity"
+  github = "xegenix"
   #gitlab = "username"
   #bitbucket = "username"
   #reddit = "username"
@@ -77,23 +77,23 @@ previewCardImagePlacement = "top"
     url = "/"
     weight = 1
 
-[[menu.main]]
-    name = "Notes"
-    url = "/notes/"
-    weight = 2
+#[[menu.main]]
+#    name = "Notes"
+#    url = "/notes/"
+#    weight = 2
 
 [[menu.main]]
     name = "Tags"
     url = "/tags/blog/"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     name = "Collections"
     url = "/collections/"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
-    name = "About NULLidle"
+    name = "About"
     url = "/about/"
-    weight = 5
+    weight = 4
 
